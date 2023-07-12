@@ -1,0 +1,17 @@
+body {
+    background-image: url(IMG-20210710-WA0004.jpg);
+    background-color: black;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+div {
+    background-color: white;
+    margin-left: 29%;
+    margin-top: 11%;
+    padding: 13px;
+    width: 40.22em;
+    box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
+    border-radius: 16px;
+}
