@@ -1,2 +1,2 @@
 # Eyad-Ahmad-Portfolio
-a portfolio made jus t for practicing html and css through youtube
+a portfolio design just made for practicing html and css through youtube tutorial.
